@@ -6,7 +6,14 @@ class App
 
     def run 
 
-        
     end
+
+    def add
+
+    end
+
+    def delete
+    end
+
 
 end
